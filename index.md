@@ -28,7 +28,7 @@ Preliminary discussion and setup. Obtain the readings for session 2 promptly.
 ## Session 5: Software studies, I
 
 - Begin: Lev Manovich, *Software Takes Command*, Introduction; chapters 2, 4, 5; Conclusion
-- Begin: Stephanie Boluk and Patrick Lemieux, *Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames*, Introduction; chapters 1, 3, 5, 6,
+- Begin: Stephanie Boluk and Patrick Lemieux, *Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames*, Introduction; chapters 1, 3, 5, 6
 
 ## Session 6: Software studies, II
 
