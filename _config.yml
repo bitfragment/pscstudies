@@ -1,0 +1,27 @@
+title:        Platform, Software and Code Studies
+date:         2017
+description:  A graduate-level seminar in platform, software, and code studies
+license:      >
+              This work is licensed under a Creative Commons
+              Attribution-NonCommercial-ShareAlike 4.0 International License.
+url:          http://bitfragment.net/pscstudies
+author:       Brian Lennon
+email:        blennon@bitfragment.net
+affiliation:  |
+              | Departments of English and Comparative Literature
+              | Pennsylvania State University
+              | University Park, PA 16802 USA
+created:      2017-08-01
+author-url:   http://bitfragment.net
+baseurl:      http://bitfragment.net/pscstudies
+exclude:      [README.md, resources]
+permalink:    pretty
+highlighter:  pygments
+markdown:     kramdown
+
+kramdown:
+  auto_ids:      true
+  footnote_nr:   1
+  entity_output: as_char
+  toc_levels:    1..6
+  smart_quotes:  lsquo,rsquo,ldquo,rdquo
