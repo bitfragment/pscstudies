@@ -16,7 +16,7 @@ author-url:   http://bitfragment.net
 baseurl:      http://bitfragment.net/pscstudies
 exclude:      [README.md, resources]
 permalink:    pretty
-highlighter:  pygments
+highlighter:  rouge
 markdown:     kramdown
 
 kramdown:
