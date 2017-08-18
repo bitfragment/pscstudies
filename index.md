@@ -65,14 +65,14 @@ Preliminary discussion and setup. Obtain the readings for session 2 promptly.
 ## Session 13: Code studies, I / fiction and memoir, III
 
 - Complete: Mark C. Marino, "Critical Code Studies" (in *Electronic Book Review*)
-- Begin: Nick Montfort , Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter, *10 PRINT CHR$(205.5+RND(1)); : GOTO 10*
-- Begin: Ellen Ullman, *Life in Code: A Personal History of Technology* parts 1, 2, 4, 5
+- Begin: Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter, *10 PRINT CHR$(205.5+RND(1)); : GOTO 10*
+- Begin: Ellen Ullman, *Life in Code: A Personal History of Technology*, parts 1, 2, 4, 5
 - Share proposals for final essay
 
 ## Session 14: Code studies, II / fiction and memoir, IV
 
 - Complete: Montfort et al., *10 PRINT CHR$(205.5+RND(1)); : GOTO 10*
-- Complete: Ellen Ullman, *Life in Code: A Personal History of Technology* (chapters specified above)
+- Complete: Ellen Ullman, *Life in Code: A Personal History of Technology* (parts specified above)
 
 ## Session 15: Epilogue / Final essay
 
