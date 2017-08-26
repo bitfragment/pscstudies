@@ -13,7 +13,7 @@ Preliminary discussion and setup. Obtain the readings for session 2 promptly.
 ## Session 2: Platform studies, I
 
 - Complete: Nick Montfort and Ian Bogost, *Racing the Beam: The Atari Video Computer System*
-- Begin: Lisa Nakamura, *Digitizing Race: Visual Cultures of the Internet* Introduction, Chapters 1, 2, 4, 5, Epilogue
+- Begin: Lisa Nakamura, *Digitizing Race: Visual Cultures of the Internet* Introduction, Chapters 1, 2, 4, Epilogue
 
 ## Session 3: Platform studies, II
 
