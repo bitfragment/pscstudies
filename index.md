@@ -23,7 +23,7 @@ Preliminary discussion and setup. Obtain the readings for session 2 promptly.
 
 ## Session 4: Platform studies, III
 
-- Complete: Dan Schiller, *Digital Depression: Information Technology and Economic Crisis* Parts I and II (chapters 1–9)
+- Complete: Dan Schiller, *Digital Depression: Information Technology and Economic Crisis*, Introduction, Chapters 1, 4, 5, 6, 9
 
 ## Session 5: Software studies, I
 
