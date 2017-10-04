@@ -41,25 +41,26 @@ Preliminary discussion and setup. Obtain the readings for session 2 promptly.
 
 ## Session 8: Software studies, IV
 
-- Complete: David M. Berry, *The Philosophy of Software: Code and Mediation in the Digital Age*
+- Begin: Benjamin H. Bratton, *The Stack: On Software and Sovereignty*, Introduction; sections 1–33, 51–77
 
 ## Session 9: Software studies, V
 
-- Begin: Benjamin H. Bratton, *The Stack: On Software and Sovereignty*, Introduction; sections 1–33, 51–77
+- Continue: Benjamin H. Bratton, *The Stack: On Software and Sovereignty* (sections specified above)
+- Complete: David Golumbia, *The Politics of Bitcoin: Software as Right-Wing Extremism*
 
 ## Session 10: Software studies, VI
 
 - Complete: Benjamin H. Bratton, *The Stack: On Software and Sovereignty* (sections specified above)
-- Complete: David Golumbia, *The Politics of Bitcoin: Software as Right-Wing Extremism*
+- Begin: Ellen Ullman, *Close to the Machine: Technophilia and Its Discontents*
 
 ## Session 11: Fiction and memoir, I
 
-- Complete: Ellen Ullman, *The Bug: A Novel*
-- Begin: Ellen Ullman, *Close to the Machine: Technophilia and Its Discontents*
+- Complete: Ellen Ullman, *Close to the Machine: Technophilia and Its Discontents*
+- Begin: Ellen Ullman, *The Bug: A Novel*
 
 ## Session 12: Fiction and memoir, II
 
-- Complete: Ullman, *Close to the Machine*
+- Complete: Ellen Ullman, *The Bug: A Novel*
 - Complete: Douglas Coupland, *Microserfs*
 
 ## Session 13: Code studies, I / fiction and memoir, III
