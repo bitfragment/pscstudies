@@ -42,6 +42,7 @@ Preliminary discussion and setup. Obtain the readings for session 2 promptly.
 ## Session 8: Software studies, IV
 
 - Begin: Benjamin H. Bratton, *The Stack: On Software and Sovereignty*, Introduction; sections 1–33, 51–77
+- If necessary, we can also extend discussion of Federica Frabetti, *Software Theory* into this session
 
 ## Session 9: Software studies, V
 
