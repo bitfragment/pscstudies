@@ -4,7 +4,7 @@ description:  A graduate-level seminar in platform, software, and code studies
 license:      >
               This work is licensed under a Creative Commons
               Attribution-NonCommercial-ShareAlike 4.0 International License.
-url:          http://bitfragment.net/pscstudies
+url:          https://bitfragment.net/pscstudies
 author:       Brian Lennon
 email:        blennon@bitfragment.net
 affiliation:  |
@@ -13,7 +13,7 @@ affiliation:  |
               | University Park, PA 16802 USA
 created:      2017-08-01
 author-url:   http://bitfragment.net
-baseurl:      http://bitfragment.net/pscstudies
+baseurl:      https://bitfragment.net/pscstudies
 exclude:      [README.md, resources]
 permalink:    pretty
 highlighter:  rouge
